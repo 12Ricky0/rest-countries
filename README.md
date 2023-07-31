@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/12Ricky0/rest-countries.git](https://your-solution-url.com)
-- Live Site URL: [https://rest-countries-12ricky0.vercel.app/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/12Ricky0/rest-countries.git](https://github.com/12Ricky0/rest-countries.git)
+- Live Site URL: [https://rest-countries-12ricky0.vercel.app/](https://rest-countries-12ricky0.vercel.app/)
 
 ## My process
 
